@@ -1,0 +1,5 @@
+xpack.security.enabled: true
+xpack.security.authc:
+  basic:
+    username: rashik
+    password: rashik123
