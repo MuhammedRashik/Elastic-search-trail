@@ -56,7 +56,7 @@ app.get("/get-user", async (req, res) => {
   }
 });
 
-// Other routes for update and delete user similar to the above GET route...
+
 
 // Error handling middleware
 app.use((err, req, res, next) => {
